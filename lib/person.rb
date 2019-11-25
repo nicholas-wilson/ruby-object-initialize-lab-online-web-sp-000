@@ -4,5 +4,6 @@ class Person
 
   def initialize(name = "Nice")
     @name = name
+  end
 
 end
