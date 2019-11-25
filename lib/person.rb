@@ -2,7 +2,7 @@ class Person
 
   attr_accessor :name
 
-  initialize(name = "Nice")
+  initialize(name = "Nic")
     @name = name
   end
 
